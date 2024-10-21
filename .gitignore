@@ -1,0 +1,11 @@
+
+# Ignore files with extension `.class` & `.exe`
+*.class
+*.exe
+
+
+bin/
+.vscode 
+*/bin/*
+
+!*/*.exe
